@@ -18,6 +18,10 @@ Required for all Adafruit Unified Sensor based libraries. A unified sensor abstr
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/Adafruit_Unified_Sensor`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Adafruit <info@adafruit.com>
